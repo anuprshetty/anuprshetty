@@ -23,6 +23,11 @@ education: Bachelor of Engineering in Computer Science
 location: India
 ```
 
+## **_>$ whoami --debug_**
+
+  - 📄 [Resume](https://drive.google.com/drive/folders/1BThrkgQSBIFlNKkKMXHcf6PuhYbxGqF6)
+  - 🎨 [Portfolio](https://anuprshetty.github.io/)
+
 <!-- GitHub contribution grid snake -->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/anuprshetty/anuprshetty/contribution_grid_snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
