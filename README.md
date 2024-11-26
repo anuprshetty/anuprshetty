@@ -50,6 +50,16 @@ location: India
 🏆 [**_View source code_**](https://github.com/anuprshetty/chandassu)
 🏆
 
+## **_>$ about --hobby-projects_**
+
+⭐ [**_Chatbox_**](https://github.com/anuprshetty/chatbox)
+⭐ [**_Sudoku Solver_**](https://github.com/anuprshetty/sudoku_solver)
+⭐ [**_Meetup_**](https://github.com/anuprshetty/meetup)
+⭐ [**_My Age Viewer_**](https://github.com/anuprshetty/my_age_viewer)
+⭐ [**_Guess The Word_**](https://github.com/anuprshetty/guess_the_word)
+⭐ [**_Tic Tac Toe_**](https://github.com/anuprshetty/tic_tac_toe)
+⭐
+
 ## **_>$ contact-me_**
 
 <img src="assets/linkedin.png" alt="linkedin.png" width="20px" /> [**_LinkedIn_**](https://www.linkedin.com/in/anuprshetty/) &emsp; &emsp; <img src="assets/twitter.png" alt="twitter.png" width="20px" /> [**_Twitter_**](https://x.com/anuprshetty) &emsp; &emsp; <img src="assets/hire_me.gif" alt="hire_me.gif" width="40px" /> [**_Hire Me_**](https://anuprshetty.github.io/contact.html)
