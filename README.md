@@ -60,6 +60,21 @@ location: India
 ⭐ [**_Tic Tac Toe_**](https://github.com/anuprshetty/tic_tac_toe)
 ⭐
 
+## **_>$ about --experimental-projects_**
+
+🚀 [**_Python gRPC_**](https://github.com/anuprshetty/py_grpc)
+🚀 [**_Fast Python_**](https://github.com/anuprshetty/fast_python)
+🚀 [**_Dockerify_**](https://github.com/anuprshetty/dockerify)
+🚀 [**_Docker Local Registry_**](https://github.com/anuprshetty/docker_local_registry)
+🚀 [**_RDBMS Design_**](https://github.com/anuprshetty/ipl_data_management)
+🚀 [**_Health Bot_**](https://github.com/anuprshetty/health_bot)
+🚀 [**_System Design_**](https://github.com/anuprshetty/solve_it)
+🚀 [**_Smart Terminal_**](https://github.com/anuprshetty/iterm2_startup)
+🚀 [**_OSI Model Tracer_**](https://github.com/anuprshetty/computer_network_lab)
+🚀 [**_Pythonic_**](https://github.com/anuprshetty/pythonic)
+🚀 [**_Python Lab_**](https://github.com/anuprshetty/python_lab)
+🚀
+
 ## **_>$ contact-me_**
 
 <img src="assets/linkedin.png" alt="linkedin.png" width="20px" /> [**_LinkedIn_**](https://www.linkedin.com/in/anuprshetty/) &emsp; &emsp; <img src="assets/twitter.png" alt="twitter.png" width="20px" /> [**_Twitter_**](https://x.com/anuprshetty) &emsp; &emsp; <img src="assets/hire_me.gif" alt="hire_me.gif" width="40px" /> [**_Hire Me_**](https://anuprshetty.github.io/contact.html)
