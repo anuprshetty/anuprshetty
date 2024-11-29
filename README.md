@@ -69,7 +69,7 @@ location: India
 🚀 [**_RDBMS Design_**](https://github.com/anuprshetty/ipl_data_management)
 🚀 [**_Health Bot_**](https://github.com/anuprshetty/health_bot)
 🚀
-<br><br> &emsp;
+<br><br> &emsp;&emsp;&emsp;&emsp;
 🚀 [**_System Design_**](https://github.com/anuprshetty/solve_it)
 🚀 [**_Smart Terminal_**](https://github.com/anuprshetty/iterm2_startup)
 🚀 [**_OSI Model Tracer_**](https://github.com/anuprshetty/computer_network_lab)
