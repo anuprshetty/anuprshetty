@@ -13,7 +13,7 @@
 ```yaml
 name: Anup Shetty
 role: Remote Blockchain Developer
-experience: 6 Years (MNC and Startups)
+experience: 6+ Years (MNC and Startups)
 goals:
   - 🟩 Backend Development [Completed ✅]
   - 🟨 Blockchain Development [In Progress ⏳]
