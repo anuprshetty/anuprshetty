@@ -1,4 +1,4 @@
-name: generate animation
+name: Contribution grid snake
 
 on:
   # run automatically every 6 hours
