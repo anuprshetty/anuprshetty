@@ -25,8 +25,11 @@ location: India
 
 ## **_>$ whoami --debug_**
 
-  - 📄 [Resume](https://drive.google.com/drive/folders/1BThrkgQSBIFlNKkKMXHcf6PuhYbxGqF6)
-  - 🎨 [Portfolio](https://anuprshetty.github.io/)
+<img src="assets/arrow.gif" alt="arrow.gif" width="20px" /> [Resume](https://drive.google.com/drive/folders/1BThrkgQSBIFlNKkKMXHcf6PuhYbxGqF6) &emsp; &emsp; <img src="assets/arrow.gif" alt="arrow.gif" width="20px" /> [Portfolio](https://anuprshetty.github.io/)
+
+## **_>$ contact-me_**
+
+<img src="assets/linkedin.png" alt="linkedin.png" width="20px" /> [LinkedIn](https://www.linkedin.com/in/anuprshetty/) &emsp; &emsp; <img src="assets/twitter.png" alt="twitter.png" width="20px" /> [Twitter](https://x.com/anuprshetty) &emsp; &emsp; <img src="assets/hire_me.gif" alt="hire_me.gif" width="40px" /> [Hire Me](https://anuprshetty.github.io/contact.html)
 
 <!-- GitHub contribution grid snake -->
 
