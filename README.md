@@ -39,6 +39,17 @@ location: India
 - [**_IPFS Node_**](https://github.com/anuprshetty/ipfs_node) 💎 IPFS node deployment on docker container.
 - [**_Dwitter_**](https://github.com/anuprshetty/dwitter) 💎 A decentralized Twitter.
 
+## **_>$ about --graduation-project_**
+
+- [**_Chandassu_**](https://github.com/anuprshetty/chandassu) 💎 Prosody analysis and identification of metrics for Kannada verses using rule-based approach.
+<br><br> &emsp;
+🏆 [**_Launch website_**](https://chandassu.onrender.com/)
+🏆 [**_View publication_**](https://www.ingentaconnect.com/contentone/asp/jctn/2020/00000017/f0020009/art00033)
+🏆 [**_Research paper_**](./static/docs/research_paper.pdf)
+🏆 [**_Project report_**](./static/docs/project_report.pdf)
+🏆 [**_View source code_**](https://github.com/anuprshetty/chandassu)
+🏆
+
 ## **_>$ contact-me_**
 
 <img src="assets/linkedin.png" alt="linkedin.png" width="20px" /> [**_LinkedIn_**](https://www.linkedin.com/in/anuprshetty/) &emsp; &emsp; <img src="assets/twitter.png" alt="twitter.png" width="20px" /> [**_Twitter_**](https://x.com/anuprshetty) &emsp; &emsp; <img src="assets/hire_me.gif" alt="hire_me.gif" width="40px" /> [**_Hire Me_**](https://anuprshetty.github.io/contact.html)
