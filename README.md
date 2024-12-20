@@ -42,11 +42,12 @@ location: India
 ## **_>$ about --graduation-project_**
 
 - [**_Chandassu_**](https://github.com/anuprshetty/chandassu) 💎 Prosody analysis and identification of metrics for Kannada verses using rule-based approach.
-<br><br> &emsp;
+<br><br>
 🏆 [**_Launch website_**](https://chandassu.onrender.com/)
 🏆 [**_View publication_**](https://www.ingentaconnect.com/contentone/asp/jctn/2020/00000017/f0020009/art00033)
-🏆 [**_Research paper_**](./static/docs/research_paper.pdf)
-🏆 [**_Project report_**](./static/docs/project_report.pdf)
+🏆 [**_Project award_**](https://github.com/anuprshetty/chandassu/blob/main/media/project_award.jpeg)
+🏆 [**_Research paper_**](https://github.com/anuprshetty/chandassu/blob/main/static/docs/research_paper.pdf)
+🏆 [**_Project report_**](https://github.com/anuprshetty/chandassu/blob/main/static/docs/project_report.pdf)
 🏆 [**_View source code_**](https://github.com/anuprshetty/chandassu)
 🏆
 
