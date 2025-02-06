@@ -29,7 +29,7 @@ location: India
 
 ## **_>$ about --blockchain-projects_**
 
-- [**_Blockchain_**](https://github.com/anuprshetty/blockchain) 💎 A simple blockchain network implementation in JavaScript.
+- [**_Blockchain Network_**](https://github.com/anuprshetty/blockchain) 💎 A simple blockchain network implementation in JavaScript.
 - [**_NFT Bridge_**](https://github.com/anuprshetty/nft_bridge) 💎 A dapp for moving NFTs from one blockchain to another.
 - [**_NFT Marketplace_**](https://github.com/anuprshetty/nft_marketplace) 💎 A dapp for selling and purchasing NFTs.
 - [**_NFT Staker_**](https://github.com/anuprshetty/nft_staker) 💎 A dapp for staking NFTs.
