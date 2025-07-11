@@ -12,6 +12,7 @@
 
 ```yaml
 name: Anup Shetty
+motto: git commit -m "REASONING FROM FIRST PRINCIPLES"
 role: Remote Blockchain Developer
 experience: 6+ Years (MNC and Startups)
 goals:
