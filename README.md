@@ -13,12 +13,8 @@
 ```yaml
 name: Anup Shetty
 motto: git commit -m "REASONING FROM FIRST PRINCIPLES"
-role: Remote Blockchain Developer
+role: Remote Senior Software Developer
 experience: 6+ Years (MNC and Startups)
-goals:
-  - 🟩 Backend Development [Completed ✅]
-  - 🟨 Blockchain Development [In Progress ⏳]
-  - 🟥 Open Source Contribution [To-Do 📝]
 dream: Digital Nomad
 education: Bachelor of Engineering in Computer Science
 location: India
@@ -26,15 +22,15 @@ location: India
 
 ## **_>$ whoami --debug_**
 
-<img src="assets/arrow.gif" alt="arrow.gif" width="20px" /> [**_Resume_**](https://drive.google.com/drive/folders/1BThrkgQSBIFlNKkKMXHcf6PuhYbxGqF6) &emsp; &emsp; <img src="assets/arrow.gif" alt="arrow.gif" width="20px" /> [**_Portfolio_**](https://anuprshetty.github.io/)
+<img src="assets/arrow.gif" alt="arrow.gif" width="20px" /> [**_Portfolio_**](https://anuprshetty.github.io/)
 
 ## **_>$ about --blockchain-projects_**
 
-- [**_Blockchain Network_**](https://github.com/anuprshetty/blockchain) 💎 A simple blockchain network implementation in JavaScript.
 - [**_NFT Bridge_**](https://github.com/anuprshetty/nft_bridge) 💎 A dapp for moving NFTs from one blockchain to another.
 - [**_NFT Marketplace_**](https://github.com/anuprshetty/nft_marketplace) 💎 A dapp for selling and purchasing NFTs.
 - [**_NFT Staker_**](https://github.com/anuprshetty/nft_staker) 💎 A dapp for staking NFTs.
 - [**_NFT Minter_**](https://github.com/anuprshetty/nft_minter) 💎 A dapp for minting NFTs.
+- [**_Blockchain Network_**](https://github.com/anuprshetty/blockchain) 💎 A simple blockchain network implementation in JavaScript.
 - [**_Hash Wallet_**](https://github.com/anuprshetty/hash_wallet) 💎 A crypto wallet (chrome extension) for web3 development.
 - [**_Hardhat Network_**](https://github.com/anuprshetty/hardhat_network) 💎 Hardhat network deployment on docker container.
 - [**_IPFS Node_**](https://github.com/anuprshetty/ipfs_node) 💎 IPFS node deployment on docker container.
