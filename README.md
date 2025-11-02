@@ -14,7 +14,7 @@
 name: Anup Shetty
 motto: git commit -m "REASONING FROM FIRST PRINCIPLES"
 role: Remote Senior Software Developer
-experience: 6+ Years (MNC and Startups)
+experience: 7+ Years (MNC and Startups)
 interests:
   - Software Development
   - Open Source Contributions
